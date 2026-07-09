@@ -1,0 +1,7 @@
+pandas
+geopandas
+duckdb
+requests
+numpy
+rapidfuzz
+matplotlib
